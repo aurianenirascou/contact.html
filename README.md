@@ -1,9 +1,8 @@
+<!DOCTYPE html>
 <html>
  <body>
-  <h1>Contact Information</h1>
-  <p>My email</p>
-  <p>My phone</p>
-  <p>My name</p>
-  <p>My Twitter account</p>
+  <h1>Uber Class</h1>
+  <p><Welcome!></p>
+  <a href="/contact.html">See my contact page</a>
  </body>
 </html> 
